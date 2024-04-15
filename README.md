@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-#### Welcome to my profile. I am Mirza Akbar Ali. I studied theoretical physics as a bachelor student at COMSATS University Islamabad and currently pursuing Erasmus Mundus Master in quantum Technologies and Engineering. I use GitHub to backup various projects and other codes that I ocassionaly work on. 
+#### Welcome to my profile. I am Mirza Akbar Ali. I studied theoretical physics as a bachelor's student at COMSATS University Islamabad and am currently pursuing an Erasmus Mundus Master in Quantum Technologies and Engineering at the University of Bourgogne (France) and Technical University Kaiserslautern (Germany).
+
+I use GitHub to back up various projects and codes I occasionally work on. If you find my repositories useful, you are welcome to fork and use them. 
 
 <!--
 **mirzaakbarali/mirzaakbarali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

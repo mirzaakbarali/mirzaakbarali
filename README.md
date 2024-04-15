@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Welcome to my profile. I am Mirza Akbar Ali. I studied theoretical physics as a bachelor's student at COMSATS University Islamabad and am currently pursuing an Erasmus Mundus Master in Quantum Technologies and Engineering at the University of Bourgogne (France) and Technical University Kaiserslautern (Germany).
+Welcome to my profile. I am Mirza Akbar Ali. I studied theoretical physics as a bachelor's student at COMSATS University Islamabad and am currently pursuing an Erasmus Mundus Master in Quantum Technologies and Engineering at the University of Bourgogne (France) and Technical University Kaiserslautern (Germany).
 
 I use GitHub to back up various projects and codes I occasionally work on. If you find my repositories useful, you are welcome to fork and use them. 
 
